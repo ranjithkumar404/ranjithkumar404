@@ -3,7 +3,7 @@ Hello People..🤗
 <p align="left">
 <a href="https://www.linkedin.com/in/ranjith-kumar-18a60a238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjith-shetty" height="30" width="40" /></a>
 <a href="https://twitter.com/Ranjith10120852" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  height="30" width="40" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjithkumar404&label=Profile%20views&color=0e75b6&style=flat" alt="rk" /> </p>
+
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
