@@ -15,6 +15,4 @@ Hello Peeps...🤗
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 
 </p>
-<p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjithkumar404&show_icons=true&locale=en&layout=compact" alt="ranjith-shetty" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjithkumar404" alt="ranjith-shetty" /></p>
 
